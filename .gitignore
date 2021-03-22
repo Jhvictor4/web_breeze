@@ -1,0 +1,6 @@
+front/node_modules/
+test_data
+.cache
+__pycache__
+settings.py
+build/
